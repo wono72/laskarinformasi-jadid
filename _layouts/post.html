@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title }}</title>
+</head>
+<body>
+  <header>
+    <h1>{{ site.title }}</h1>
+    <p>{{ site.description }}</p>
+  </header>
+  <main>
+    <article>
+      <h1>{{ page.title }}</h1>
+      <p><small>{{ page.date | date: site.date_format }}</small></p>
+      {{ content }}
+    </article>
+  </main>
+</body>
+</html>
+
