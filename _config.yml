@@ -4,3 +4,4 @@ title: "Laskar Informasi | Sinergi Iman, Ilmu & Amal"
 description: "Informasi ajaran islam yang mencakup konsep dan implementasinya dalam kehidupan"
 date_format: "%-d %B %Y"
 future: true
+permalink: /:title/
