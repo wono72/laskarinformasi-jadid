@@ -1,7 +1,9 @@
-remote_theme: minima
+remote_theme: pmarsceill/just-the-docs
 timezone: Asia/Jakarta
 title: "Laskar Informasi | Sinergi Iman, Ilmu & Amal"
 description: "Informasi ajaran islam yang mencakup konsep dan implementasinya dalam kehidupan"
 date_format: "%-d %B %Y"
 future: true
 permalink: /:title/
+logo: "/gambar/logo.png"
+nav_enabled: true

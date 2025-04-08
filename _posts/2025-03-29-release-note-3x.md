@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Release Note Laskar Informasi 3.0
 date: 2025-03-29
 ---
