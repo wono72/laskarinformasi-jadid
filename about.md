@@ -3,6 +3,10 @@ layout: page
 title: "Sekapur Sirih"
 permalink: /about/
 ---
+# Sejarah Singkat
+
+**Laskar Informasi** merupakan _blog_ yang berisi sebagian catatan penulis saat mengaji atau belajar agama islam. Pertama kali _launching_ dengan domain laskarinformasi.com sejak 7 Februari 2011 menggunakan _platform blogger_ atau _blogspot_. Sempat berganti sejenak ke _wordpress_, tetapi kemudian kembali ke _blogger_. Pada Januari 2017 beralih menggunakan _static site generator_ yaitu **jekyll** yang di-_host_ di _github page_ sampai saat ini.
+
 # Makna Logo
 
 ![](/gambar/logo.png)
@@ -17,7 +21,9 @@ Adapun warna hitam dan putih, keduanya merupakan perlambang kami untuk objektif,
 
 # Penulis
 
-Penulis bernama Sasongko asal Kota Semarang Jawa Tengah. Muslim Sunni madzhab Asy'ariyyah/Maturidiyyah & Syafi'iyyah. Tidak terikat afiliasi dengan partai politik.  
+Penulis bernama Sasongko asal Kota Semarang Jawa Tengah. Muslim Sunni madzhab Asy'ariyyah/Maturidiyyah & Syafi'iyyah. Belajar agama dari KH. Masjhudi dan ibu beserta putra-putra beliau khususnya Nursalim dan Arif Bastian; Suwarto, Ahmad, Agus Roesono, Listyawati Ratna D, Ida Nurlaila Candra, Siamah, Musliman, Muzayin. Selain itu juga belajar dari Muhammad Abduh Negara, Naufal Alaydrus, Muhammad Erwin, Fandi Achmad, Rizky Mahdani, Rizky Ramdhani, Ahmad Mutammam, dll.  
+
+Penulis sampai saat ini tidak terikat afiliasi dengan partai politik apapun.  
 
 # Disclaimer
 
