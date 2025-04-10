@@ -1,4 +1,5 @@
 ---
+layout: page
 title: "Sekapur Sirih"
 permalink: /about/
 ---

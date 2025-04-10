@@ -7,3 +7,5 @@ future: true
 permalink: /:title/
 logo: "/gambar/logo.png"
 nav_enabled: true
+paginate: 5
+paginate_path: "/page:num/"
