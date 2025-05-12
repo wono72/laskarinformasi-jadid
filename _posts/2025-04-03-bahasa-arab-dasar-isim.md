@@ -14,6 +14,6 @@ Contoh:
 2. <span lang="ar" dir="rtl"> مُسْلِمٌ </span> = seorang muslim
 3. <span lang="ar" dir="rtl"> مَدْرَسَةٌ </span> = madrasah/sekolah
 # Isim bercirikan al
-Setiap kalimah yang diawali al (<span lang="ar" dir="rtl"> ال ) adalah isim. Contoh:
+Setiap kalimah yang diawali al (<span lang="ar" dir="rtl"> ال </span>) adalah isim. Contoh:
 1. <span lang="ar" dir="rtl"> المَسْجِدُ </span> = masjid
 2. <span lang="ar" dir="rtl"> النُّوْرُ </span> = cahaya
