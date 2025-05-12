@@ -1,4 +1,5 @@
 ---
+layout: post
 date: 2025-04-02
 title: "Makna Fiqih"
 categories: [fiqih]
