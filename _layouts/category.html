@@ -1,0 +1,7 @@
+---
+layout: default
+---
+<h1>Posts in "{{ page.title }}"</h1>
+{% for post in site.categories[page.title] %}
+- [{{ post.title }}]({{ post.url | relative_url }})
+{% endfor %}

@@ -41,25 +41,95 @@
     
     "relUrl": "/about/"
   },"6": {
+    "doc": "Kategori",
+    "title": "note",
+    "content": ". | Release Note Laskar Informasi 3.0 | . ",
+    "url": "/categories/",
+    
+    "relUrl": "/categories/"
+  },"7": {
+    "doc": "Kategori",
+    "title": "bahasa arab",
+    "content": ". | Bahasa Arab Dasar: Isim | Bahasa Arab Dasar: Kalam dan Kalimah | . ",
+    "url": "/categories/",
+    
+    "relUrl": "/categories/"
+  },"8": {
+    "doc": "Kategori",
+    "title": "ilmu al quran",
+    "content": ". | Nama Lain Surah Al Fatihah | . ",
+    "url": "/categories/",
+    
+    "relUrl": "/categories/"
+  },"9": {
+    "doc": "Kategori",
+    "title": "dzikir doa",
+    "content": ". | Wirid Al Fatihah 100x | . ",
+    "url": "/categories/",
+    
+    "relUrl": "/categories/"
+  },"10": {
+    "doc": "Kategori",
+    "title": "fiqih",
+    "content": ". | Keutamaan Ilmu Fiqih | Makna Fiqih | . | . ",
+    "url": "/categories/",
+    
+    "relUrl": "/categories/"
+  },"11": {
+    "doc": "Kategori",
+    "title": "Kategori",
+    "content": ". | note . | bahasa arab . | ilmu al quran . | dzikir doa . | fiqih . ",
+    "url": "/categories/",
+    
+    "relUrl": "/categories/"
+  },"12": {
     "doc": "Home",
     "title": "Laskar Informasi | Sinergi Iman, Ilmu & Amal",
     "content": "Informasi ajaran islam yang mencakup konsep dan implementasinya dalam kehidupan . ",
     "url": "/",
     
     "relUrl": "/"
-  },"7": {
+  },"13": {
     "doc": "Home",
     "title": "Terbaru",
-    "content": ". | Nama Lain Surah Al Fatihah 31 March 2025 | Bahasa Arab Dasar: Kalam dan Kalimah 30 March 2025 | Release Note Laskar Informasi 3.0 29 March 2025 | . ",
+    "content": ". | Keutamaan Ilmu Fiqih 4 April 2025 | Bahasa Arab Dasar: Isim 3 April 2025 | Makna Fiqih 2 April 2025 | Wirid Al Fatihah 100x 1 April 2025 | Nama Lain Surah Al Fatihah 31 March 2025 | Bahasa Arab Dasar: Kalam dan Kalimah 30 March 2025 | Release Note Laskar Informasi 3.0 29 March 2025 | . ",
     "url": "/",
     
     "relUrl": "/"
-  },"8": {
+  },"14": {
     "doc": "Home",
     "title": "Home",
     "content": " ",
     "url": "/",
     
     "relUrl": "/"
+  },"15": {
+    "doc": "Tags",
+    "title": "Tags",
+    "content": ". | bahasa arab dasar . | alfatihah . | fiqih dasar . | . ",
+    "url": "/tags/",
+    
+    "relUrl": "/tags/"
+  },"16": {
+    "doc": "Home",
+    "title": "{{ site.title }}",
+    "content": "{{ site.description}} . ",
+    "url": "/page2/",
+    
+    "relUrl": "/page2/"
+  },"17": {
+    "doc": "Home",
+    "title": "Terbaru",
+    "content": ". {% for post in site.posts %} | {{ post.title }} {{ post.date | date: site.date_format }} | {% endfor %} . ",
+    "url": "/page2/",
+    
+    "relUrl": "/page2/"
+  },"18": {
+    "doc": "Home",
+    "title": "Home",
+    "content": " ",
+    "url": "/page2/",
+    
+    "relUrl": "/page2/"
   }
 }
